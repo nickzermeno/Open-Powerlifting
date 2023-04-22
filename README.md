@@ -29,7 +29,7 @@ The dataset can be found in the `data` directory.
 
 ## Exploratory Data Analysis
 
-Exploratory data analysis was performed on the dataset to gain insights into powerlifting competitions and athletes. The exploratory data analysis can be found in the `Exploratory Data Analysis.Rmd` R Markdown file.
+Exploratory data analysis was performed on the dataset to gain insights into powerlifting competitions and athletes.
 
 ## Statistical Models
 
@@ -45,7 +45,7 @@ The results of the machine learning models and the exploratory data analysis are
 
 ## Usage
 
-To use this project, you can run the `open_powerlifting.R` script, which will load the dataset and perform the exploratory data analysis and machine learning modeling.
+To use this project, you can run the `Powerlifting.R` script, which will load the dataset and perform the exploratory data analysis and machine learning modeling.
 
 ## Authors
 
