@@ -25,13 +25,13 @@ install.packages(c("tidyverse", "ggplot2", "dplyr"))
 
 The dataset used in this project is the Open Powerlifting dataset, which contains information about powerlifting competitions and athletes from around the world. The dataset consists of over 1.3 million rows and 37 columns, and is available for download on [OpenPowerlifting.org](https://openpowerlifting.org/data.html).
 
-The dataset can be found in the `data` directory, and the data cleaning and preprocessing steps can be found in the `Data Cleaning.Rmd` R Markdown file.
+The dataset can be found in the `data` directory.
 
 ## Exploratory Data Analysis
 
 Exploratory data analysis was performed on the dataset to gain insights into powerlifting competitions and athletes. The exploratory data analysis can be found in the `Exploratory Data Analysis.Rmd` R Markdown file.
 
-## Machine Learning Models
+## Statistical Models
 
 Various statistical methods were used to predict house prices in Iowa. The methods used are:
 
