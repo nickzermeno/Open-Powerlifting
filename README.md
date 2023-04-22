@@ -1,5 +1,3 @@
-I apologize for the confusion. Here's an example README for your Open Powerlifting project, which was built using R:
-
 # Open Powerlifting
 
 This is a data science project that aims to explore the Open Powerlifting dataset and gain insights into powerlifting competitions and athletes. The project is built using R and various data science libraries, such as tidyverse, ggplot2, and dplyr.
